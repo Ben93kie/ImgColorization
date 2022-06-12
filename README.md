@@ -35,10 +35,6 @@ Baseline Model: A baseline model is available in `basic_model.py`. We use 256 x 
 </span> 
 
 
-
-<span style="color:green"> Data loader filled and added several more functionalities (e.g. different color models).
-</span> 
-
 Training and validation loop?
 
 <span style="color:green">We included the training and validation loop in train.py.
