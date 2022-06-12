@@ -1,5 +1,9 @@
 # Image Colorization Starter Code
-The objective is to produce color images given grayscale input image. This repo provides a simple-to-use starter code to that.
+The objective is to produce color images given grayscale input image. This repo provides a simple-to-use starter code to that. Download the data set at
+
+https://cloud.cs.uni-tuebingen.de/index.php/s/Ke9j4aNfqM2NE3X
+
+and set the paths in path_catalog.py appropriately.
 
 ## Setup Instructions
 Create a conda environment with pytorch, cuda.
