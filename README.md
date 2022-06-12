@@ -40,7 +40,6 @@ Training and validation loop?
 <span style="color:green">We included the training and validation loop in train.py.
 </span> 
 
-Determine model performance using appropriate metric.
 
 <span style="color:green"> We chose to use the simple L1 and L2 loss as metrics, which 
 just measure the L1 and L2 reconstruction errors. Other possibilities include measuring 
