@@ -3,6 +3,8 @@ The objective is to produce color images given grayscale input image. This repo 
 
 https://cloud.cs.uni-tuebingen.de/index.php/s/Ke9j4aNfqM2NE3X
 
+and set the paths in path_catalog.py appropriately.
+
 ## Setup Instructions
 Create a conda environment with pytorch, cuda.
 <span style="color:green">e need a couple of more packages. Only tested with Ubuntu 18.
