@@ -1,5 +1,5 @@
 # Image Colorization <span style="color:green"> Updated</span> Starter Code
-The objective is to produce color images given grayscale input image. 
+The objective is to produce color images given grayscale input image. This repo provides a simple-to-use starter code to that.
 
 ## Setup Instructions
 Create a conda environment with pytorch, cuda.
