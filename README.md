@@ -1,5 +1,5 @@
 # Image Colorization Starter Code
-The objective is to produce color images given grayscale input image. This repo provides a simple-to-use starter code to that. Download the data set at
+The objective is to produce color images given grayscale input images. This repo provides a simple-to-use starter code to that. Download the data set at
 
 https://cloud.cs.uni-tuebingen.de/index.php/s/Ke9j4aNfqM2NE3X
 
